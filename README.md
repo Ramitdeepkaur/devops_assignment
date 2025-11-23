@@ -1,1 +1,2 @@
-# Version from Branch 1
+# Final Merged Version
+This file is merged after resolving conflicts.
